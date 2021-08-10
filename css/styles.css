@@ -11685,3 +11685,8 @@ body {
 .footer {
   padding: 5rem 0;
 }
+.headshot {
+  max-width: 300px;
+  height: auto;
+  margin-bottom: 15px;
+}
